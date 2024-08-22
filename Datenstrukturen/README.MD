@@ -13,7 +13,9 @@ Dieses Projekt enthält ein einfaches Konsolenspiel, das in C# geschrieben wurde
 
 Unten finden Sie einen Screenshot des laufenden Programms:
 
-![Bildschirmfoto](screenshot.png)
+### Ich habe keine Change :)
+![Bildschirmfoto](Screenshot.png)
+![Bildschirmfoto](Screenshot1.png)
 
 ## Verwendung
 
