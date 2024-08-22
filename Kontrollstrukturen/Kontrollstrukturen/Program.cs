@@ -23,6 +23,7 @@
 			}
 			Console.WriteLine($"Länge des längsten Wortes: {longestWord.Length}");
 			Console.WriteLine($"Längstes Wort: {longestWord}");
+			Console.ReadLine();	
 		}
 	}
 }
