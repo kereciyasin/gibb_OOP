@@ -41,21 +41,21 @@ Hier sind einige Beispielausgaben des Programms:
 
 - **Kein `@` Zeichen:**
 
-    ![Kein @ Zeichen](images/no-at-sign.png)
+    ![Kein @ Zeichen](Screenshot/Screenshot1.png)
 
 - **Empfänger fehlt:**
 
-    ![Empfänger fehlt](images/missing-recipient.png)
+    ![Empfänger fehlt](Screenshot/Screenshot2.png)
 
 - **Domain fehlt:**
 
-    ![Domain fehlt](images/missing-domain.png)
+    ![Domain fehlt](Screenshot/Screenshot3.png)
 
 - **Domäne nicht korrekt:**
 
-    ![Domäne nicht korrekt](images/incorrect-domain.png)
+    ![Domäne nicht korrekt](Screenshot/Screenshot4.png)
 
 - **E-Mail korrekt:**
 
-    ![E-Mail korrekt](images/valid-email.png)
+    ![E-Mail korrekt](Screenshot/Screenshot5.png)
 
