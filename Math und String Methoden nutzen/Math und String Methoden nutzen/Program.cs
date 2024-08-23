@@ -12,11 +12,11 @@ namespace Math_und_String_Methoden_nutzen
 
 		static void Main(string[] args)
 		{
-			
-			
+						
 			Console.WriteLine("Geben Sie eine Zahl ein: ");
 			int num = Convert.ToInt32(Console.ReadLine());
 			Console.WriteLine("Die Wurzel von " + num + " ist " + BerechneWurzel(num));
+			
 			Console.ReadLine();	
 		}
 	}
