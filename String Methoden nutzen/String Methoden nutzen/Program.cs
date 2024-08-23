@@ -13,7 +13,19 @@
 				Console.WriteLine("Es gibt kein @ Zeichen!");
 				return;
 			}
-		
+			// eger kullanici adi eksikse
+			if (email.IndexOf("@") == 0)
+			{
+				Console.WriteLine("Es gibt kein Benutzername!");
+				return;
+			}
+			//her domain eksikse
+			if (email.IndexOf("@") == email.Length - 1)
+			{
+				Console.WriteLine("Es gibt kein Domain!");
+				return;
+			}	
+
 		}
 	}
 }
