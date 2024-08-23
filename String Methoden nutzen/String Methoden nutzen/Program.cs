@@ -24,7 +24,14 @@
 			{
 				Console.WriteLine("Es gibt kein Domain!");
 				return;
-			}	
+			}
+			// eger domain uzantisi eksikse
+			if (!email.Contains(".com"))
+			{
+				Console.WriteLine("Domäne nicht korrekt");
+				return;
+			}
+			Console.WriteLine("Email ist korrekt!");
 
 		}
 	}
