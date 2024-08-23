@@ -23,6 +23,6 @@ Dieses Projekt ist ein einfaches C# Konsolenprogramm, das den Benutzer aufforder
 ## Screenshots
 
 
-![Screenshot 1](Pfad/zum/Bild1.png)
+![Screenshot 1](Screenshot/Screenshot1.png)
 
-![Screenshot 2](Pfad/zum/Bild2.png)
+![Screenshot 2](Screenshot/Screenshot2.png)
