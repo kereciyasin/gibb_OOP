@@ -42,8 +42,6 @@
 			}
 
 
-
-			// Bekle
 			Console.ReadKey();
 
 
