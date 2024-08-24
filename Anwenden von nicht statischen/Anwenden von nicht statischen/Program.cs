@@ -11,7 +11,7 @@
 				// Merhaba name yaz
 				Console.WriteLine("Merhaba " + name);
 			}
-			// Eger language English ise
+			// Eger language English ise 
 			else if (language == "English")
 			{
 				// Hello name yaz
