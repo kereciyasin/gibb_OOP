@@ -48,7 +48,7 @@
 
 			Console.WriteLine($"\nSie haben {trefferAnzahl} Treffer erzielt.");
 			Console.ReadLine();	
-
+			
 		}
 	}
 }
