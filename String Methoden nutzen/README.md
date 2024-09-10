@@ -10,7 +10,7 @@ Das Programm behandelt die folgenden Fälle:
 - **Empfänger fehlt:** Die E-Mail-Adresse enthält ein `@`, aber der Empfängername fehlt.
 - **Domain fehlt:** Die E-Mail-Adresse enthält ein `@`, aber der Domain-Name fehlt.
 - **Domäne nicht korrekt:** Die E-Mail-Adresse enthält ein `@` und eine Domain, aber die Domain ist nicht korrekt (z.B. fehlt die Top-Level-Domain wie `.com`).
-- **E-Mail korrekt:** Die E-Mail-Adresse entspricht dem Format `name.vorname@domain.com`.
+- **E-Mail korrekt:** Die E-Mail-Adresse entspricht dem Format `mail@domain.com`.
 
 ## Verwendung
 
